@@ -1,3 +1,4 @@
 Hello Owner!
-Hi collaborator! 
+Hi collaborator!
+printf("the area of triangle is: %.2f", x);
 
