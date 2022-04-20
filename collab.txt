@@ -1,4 +1,4 @@
 Hello Owner!
 Hi collaborator!
-printf("the area of triangle is: %.2f", x);
+printf("The area of circle is: %.2f", x)
 
