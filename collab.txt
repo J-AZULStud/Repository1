@@ -1,3 +1,5 @@
 Hello Owner!
-Hi collaborator! 
+Hi collaborator!
+printf("The area of circle is: %.2f", x);
+ 
 
